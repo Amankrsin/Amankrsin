@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/amansin90350360" target="blank"><img src="https://img.shields.io/twitter/follow/amansin90350360?logo=twitter&style=for-the-badge" alt="amansin90350360" /></a> </p>
 
-- 🔭 I’m currently working on **Frontend Projects **
+- 🔭 I’m currently working on **Frontend Projects**
 
 - 🌱 I’m currently learning **Javascript**
 
